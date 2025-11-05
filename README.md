@@ -7,7 +7,7 @@ This project demonstrates **data cleaning, analytical storytelling, and dashboar
 
 ## 🖼️ Dashboard Preview
 
-![Titanic Dashboard](TitanicDash.png)
+![Titanic Dashboard](titanicDash.png)
 
 ---
 
